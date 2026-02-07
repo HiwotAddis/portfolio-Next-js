@@ -88,7 +88,7 @@ const HeroSection = () => {
               src="/images/hero-img.png"
               alt="hero image"
               fill
-              className="object-cover"
+              className="object-cover object-top"
             />
           </div>
         </motion.div>
